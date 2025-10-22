@@ -7,7 +7,7 @@
 # Features:
 #   - Reads list of repositories and GitHub URLs from config.json
 #   - Commits and pushes changes automatically
-#   - Logs results for each repo (with color coding icons for easier view)
+#   - Logs results for each repo (with color-coded icons for easier viewing)
 #   - Skips repos with no changes
 #   - Configurable branch (default: main)
 # Usage:
