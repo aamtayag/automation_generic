@@ -90,7 +90,7 @@ def summarize_log(file_path, keyword=None, start_date=None, end_date=None, outpu
     if output:
         with open(output, 'w', encoding='utf-8') as f_out:
             f_out.write(summary_text)
-        print(f"✅ Summary written to {output}")
+        print(f"Summary written to {output}")
     else:
         print(summary_text)
 
