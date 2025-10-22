@@ -1,0 +1,19 @@
+{
+  "repositories": [
+    {
+      "local_path": "/Users/aries/Projects/oracle_admin_scripts",
+      "remote_url": "https://github.com/aamtayag/oracle_admin_scripts.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/cloud-infra-automation",
+      "remote_url": "https://github.com/aamtayag/cloud-infra-automation.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/python-scripts-utilities",
+      "remote_url": "https://github.com/aamtayag/python-scripts-utilities.git",
+      "branch": "main"
+    }
+  ]
+}
