@@ -1,0 +1,13 @@
+interval: 60
+sites:
+  - name: DBS
+    url: https://www.dbs.com
+    webhook: https://hooks.slack.com/services/XXXX/YYYY/ZZZZ
+
+  - name: GitHub
+    url: https://www.github.com
+    webhook: https://hooks.slack.com/services/AAAA/BBBB/CCCC
+
+  - name: My Website
+    url: https://www.mypersonalsite.com
+    webhook: https://hooks.slack.com/services/DDDD/EEEE/FFFF
