@@ -39,6 +39,11 @@
       "local_path": "/Users/aries/Projects/data_engineer",
       "remote_url": "https://github.com/aamtayag/_Data_Engineer.git",
       "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/performance_tuning",
+      "remote_url": "https://github.com/aamtayag/_Perf_tuning.git",
+      "branch": "main"
     }
   ]
 }
