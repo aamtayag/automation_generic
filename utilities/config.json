@@ -1,6 +1,16 @@
 {
   "repositories": [
     {
+      "local_path": "/Users/aries/Projects/mse_capstone_project",
+      "remote_url": "https://github.com/aamtayag/mse_capstone_project.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/mariadb_mysql_admin_scripts",
+      "remote_url": "https://github.com/aamtayag/mariadb-mysql-admin-scripts.git",
+      "branch": "main"
+    },
+    {
       "local_path": "/Users/aries/Projects/oracle_admin_scripts",
       "remote_url": "https://github.com/aamtayag/oracle_admin_scripts.git",
       "branch": "main"
@@ -11,8 +21,23 @@
       "branch": "main"
     },
     {
+      "local_path": "/Users/aries/Projects/automation_generic",
+      "remote_url": "https://github.com/aamtayag/automation_generic.git",
+      "branch": "main"
+    },    
+    {
       "local_path": "/Users/aries/Projects/python-scripts-utilities",
       "remote_url": "https://github.com/aamtayag/python-scripts-utilities.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/full_stack_engineer",
+      "remote_url": "https://github.com/aamtayag/_Full_Stack_Engineer.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/data_engineer",
+      "remote_url": "https://github.com/aamtayag/_Data_Engineer.git",
       "branch": "main"
     }
   ]
