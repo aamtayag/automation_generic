@@ -23,7 +23,7 @@ My repository of **automation scripts** written in **Bash**, **Python**, and **S
 # Prerequisites
 Before running the scripts, make sure you have:
    - ✅ A Linux or macOS system with Bash ≥ 4.0 or Python ≥ 3.8
-   - ✅ A Windows system PowerShell ≥ 6.x
+   - ✅ A Windows system with PowerShell ≥ 6.x
    - ✅ Proper permissions to execute scripts and access system logs  
    - ✅ Installed utilities: 'mail', 'crontab', 'gzip', 'find', 'awk', etc.  
    - ✅ Configured email relay or SMTP (for notifications)
