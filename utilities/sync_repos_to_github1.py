@@ -21,7 +21,7 @@ import json
 import datetime
 from git import Repo, GitCommandError
 
-CONFIG_FILE = "config.json"
+CONFIG_FILE = "config1.json"
 LOG_FILE = "sync_log.txt"
 
 def load_config():
