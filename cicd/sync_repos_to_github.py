@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/anaconda3/bin/python3
 
 # ########################################################
 # Script name: sync_repos_to_github.py
