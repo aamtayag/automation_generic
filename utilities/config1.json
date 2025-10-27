@@ -1,0 +1,29 @@
+{
+  "repositories": [
+    {
+      "local_path": "/Users/aries/Projects/mse_capstone_project",
+      "remote_url": "https://github.com/aamtayag/mse_capstone_project.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/mariadb_mysql_admin_scripts",
+      "remote_url": "https://github.com/aamtayag/mariadb-mysql-admin-scripts.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/oracle_admin_scripts",
+      "remote_url": "https://github.com/aamtayag/oracle_admin_scripts.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/cloud-infra-automation",
+      "remote_url": "https://github.com/aamtayag/cloud-infra-automation.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aries/Projects/automation_generic",
+      "remote_url": "https://github.com/aamtayag/automation_generic.git",
+      "branch": "main"
+    }
+  ]
+}
