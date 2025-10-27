@@ -11,6 +11,13 @@
       "branch": "main"
     },
     {
+      "local_path": "/Users/aamtayag/aamtayag/Personal/Learning/Projects/responsive_web_design",
+      "remote_url": "https://github.com/aamtayag/responsive_web_design.git",
+      "branch": "main"
+    },
+
+
+    {
       "local_path": "/Users/aries/Projects/oracle_admin_scripts",
       "remote_url": "https://github.com/aamtayag/oracle_admin_scripts.git",
       "branch": "main"
