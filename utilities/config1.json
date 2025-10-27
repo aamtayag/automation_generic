@@ -20,16 +20,14 @@
       "remote_url": "https://github.com/aamtayag/cloud-infra-automation.git",
       "branch": "main"
     },
-
-
-    {
-      "local_path": "/Users/aries/Projects/oracle_admin_scripts",
-      "remote_url": "https://github.com/aamtayag/oracle_admin_scripts.git",
-      "branch": "main"
-    },
     {
       "local_path": "/Users/aamtayag/aamtayag/Personal/Learning/Projects/automation_generic",
       "remote_url": "https://github.com/aamtayag/automation_generic.git",
+      "branch": "main"
+    },
+    {
+      "local_path": "/Users/aamtayag/aamtayag/Personal/Learning/Projects/oracle_admin_scripts",
+      "remote_url": "https://github.com/aamtayag/oracle_admin_scripts.git",
       "branch": "main"
     }
   ]
