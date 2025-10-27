@@ -49,6 +49,7 @@ def sync_repo(local_path, remote_url, branch="main"):
             repo.git.add(A=True)
             repo.index.commit("Automated sync commit")
 
+        # Check if origin exists
         origin = repo.remotes.origin if "origin" in [r.name for r in repo.remotes] else None
         if not origin:
             repo.create_remote("origin", remote_url)
@@ -83,7 +84,7 @@ def main():
             sync_repo(local, remote, branch)
         log("===== Synchronization complete =====")
     except Exception as e:
-        log(f"💥 Fatal error: {e}")
+        log(f"❌ Fatal error: {e}")
 
 if __name__ == "__main__":
     main()
