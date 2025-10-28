@@ -18,11 +18,7 @@
 # ########################################################
 
 
-import argparse
-import random
-import ipaddress
-import uuid
-import sys
+import argparse, random, ipaddress, uuid, sys
 from datetime import datetime, timedelta
 
 SEVERITY = [
